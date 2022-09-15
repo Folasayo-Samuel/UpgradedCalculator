@@ -1,0 +1,15 @@
+/home/saint/Desktop/FullFunctionCalculator/bin/Debug/net6.0/FullFunctionCalculator
+/home/saint/Desktop/FullFunctionCalculator/bin/Debug/net6.0/FullFunctionCalculator.deps.json
+/home/saint/Desktop/FullFunctionCalculator/bin/Debug/net6.0/FullFunctionCalculator.runtimeconfig.json
+/home/saint/Desktop/FullFunctionCalculator/bin/Debug/net6.0/FullFunctionCalculator.dll
+/home/saint/Desktop/FullFunctionCalculator/bin/Debug/net6.0/FullFunctionCalculator.pdb
+/home/saint/Desktop/FullFunctionCalculator/obj/Debug/net6.0/FullFunctionCalculator.csproj.AssemblyReference.cache
+/home/saint/Desktop/FullFunctionCalculator/obj/Debug/net6.0/FullFunctionCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/FullFunctionCalculator/obj/Debug/net6.0/FullFunctionCalculator.AssemblyInfoInputs.cache
+/home/saint/Desktop/FullFunctionCalculator/obj/Debug/net6.0/FullFunctionCalculator.AssemblyInfo.cs
+/home/saint/Desktop/FullFunctionCalculator/obj/Debug/net6.0/FullFunctionCalculator.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/FullFunctionCalculator/obj/Debug/net6.0/FullFunctionCalculator.dll
+/home/saint/Desktop/FullFunctionCalculator/obj/Debug/net6.0/refint/FullFunctionCalculator.dll
+/home/saint/Desktop/FullFunctionCalculator/obj/Debug/net6.0/FullFunctionCalculator.pdb
+/home/saint/Desktop/FullFunctionCalculator/obj/Debug/net6.0/FullFunctionCalculator.genruntimeconfig.cache
+/home/saint/Desktop/FullFunctionCalculator/obj/Debug/net6.0/ref/FullFunctionCalculator.dll
